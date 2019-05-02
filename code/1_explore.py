@@ -15,7 +15,7 @@ from scipy.stats.mstats import winsorize
 import dill
 import matplotlib.pyplot as plt
 import seaborn as sns
-# from plotnine import *
+from plotnine import *
 # from sklearn.model_selection import GridSearchCV, ShuffleSplit, cross_validate, RepeatedKFold, learning_curve
 # from sklearn.metrics import roc_auc_score
 # from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
